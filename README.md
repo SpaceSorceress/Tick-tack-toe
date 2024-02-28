@@ -1,0 +1,1 @@
+Hey! As my recovery from maternity leave, I'm refreshing my knowledge and skills. So here is how I landed on the official React Website and followed this tutorial on React basics. The result is a simple tick-tack-toe game.
